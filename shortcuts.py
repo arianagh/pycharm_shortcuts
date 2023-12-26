@@ -64,9 +64,47 @@ ctrl + shift + f -> it will search widely.
 
 ctrl + d -> you can duplicate a piece of code.
 
+ctrl + q -> quick documentation of your object.
+
+ctrl + shift + p -> shows the type of your object.
+
+alt + f12 -> opens a terminal.
+
+alt + 1 -> to navigate to the project and use arrows to move between your files then enter escape to come back to the code.
+
+ctrl + shift + f12 -> to hide all the windows.
+
+alt + left arrow or right -> you can move between your open files.
+
+ctrl + f4 -> to close an open file.
+
+ctrl + enter -> to make a new line without moving your cursor downside.
+
+ctrl + alt + enter -> to make a new line without moving your cursor upside.
+
+ctrl + (+) -> expand code.
+
+ctrl + (-) -> collapse code.
+
+shift + f6 -> for refactoring.
+
+
+
+
 Tips:
 Comparing two files:
 1- Select your file
 2- Then press Ctrl + D
 3- Select another file to compare
+
+You can activate the showing of windows numbers in the appearance:
+show tool window numbers -> set the checkbox to true.
+
+To help you learn you the shortcuts sooner you can install:
+presentation assistant plugin.
+
+When you are changing signature of your code pycharm will suggest a pencil right next to your changed code,
+if you hit it you can add a default value to reflect the signature changes.
+
+
 """
