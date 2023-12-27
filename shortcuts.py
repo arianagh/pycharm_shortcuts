@@ -87,10 +87,9 @@ ctrl + (+) -> expand code.
 ctrl + (-) -> collapse code.
 
 shift + f6 -> for refactoring.
+"""
 
-
-
-
+"""
 Tips:
 Comparing two files:
 1- Select your file
@@ -104,7 +103,6 @@ To help you learn you the shortcuts sooner you can install:
 presentation assistant plugin.
 
 When you are changing signature of your code pycharm will suggest a pencil right next to your changed code,
-if you hit it you can add a default value to reflect the signature changes.
-
+if you hit it you can add a default value to reflect the signature changes or you can use refactor -> change signature.
 
 """
